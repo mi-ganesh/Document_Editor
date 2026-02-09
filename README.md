@@ -2,8 +2,6 @@
 
 A full-stack real-time collaborative document editor that allows multiple users to edit the same document simultaneously using WebSockets.
 
----
-
 ## 🚀 Features
 
 - Real-time document collaboration
@@ -78,7 +76,9 @@ npm start
   <br/>
   <em>Real-time collaborative document editor interface</em>
 </p>
+
 ---
+
 
 
 
