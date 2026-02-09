@@ -66,9 +66,19 @@ npm start
 ---
 
 <p align="center">
-  <img src="Document_SS/Screenshot 2026-02-09 094202.png" width="800"/>
+  <img src="[Document_SS/Screenshot 2026-02-09 094202.png](https://github.com/mi-ganesh/Document_Editor/blob/293004ffb510215c18cf9f98c89aae0e8f4540ad/Document_SS/Screenshot%202026-02-09%20094202.png)" width="800"/>
+  <br/>
+  <em>Real-time collaborative document editor interface Login</em>
+</p>
+
+---
+
+<p align="center">
+  <img src="[Document_SS/Screenshot 2026-02-09 094202.png](https://github.com/mi-ganesh/Document_Editor/blob/293004ffb510215c18cf9f98c89aae0e8f4540ad/Document_SS/Screenshot%202026-02-09%20094202.png)" width="800"/>
   <br/>
   <em>Real-time collaborative document editor interface</em>
 </p>
+
+
 
 
