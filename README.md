@@ -62,3 +62,13 @@ REACT_APP_BACKEND_URL=http://localhost:5000
 
 npm start
 
+```
+---
+
+<p align="center">
+  <img src="Document_SS/Screenshot 2026-02-09 094202.png" width="800"/>
+  <br/>
+  <em>Real-time collaborative document editor interface</em>
+</p>
+
+
